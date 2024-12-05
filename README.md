@@ -1,5 +1,3 @@
-<h1 align="center">Hello World, I'm Pedro Folster!</h1>
-
 <p align="center">
   <a href="https://github.com/pedrohfolster?tab=followers">
     <img src="https://img.shields.io/github/followers/pedrohfolster?label=Followers&style=social" alt="GitHub Followers" />
