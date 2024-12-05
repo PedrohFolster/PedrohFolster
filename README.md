@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Pedro Folster!</h1>
+<h1 align="center">Hello World, I'm Pedro Folster!</h1>
 
 <p align="center">
   <a href="https://github.com/pedrohfolster?tab=followers">
@@ -7,6 +7,10 @@
   <a href="https://github.com/pedrohfolster?tab=repositories">
     <img src="https://img.shields.io/github/stars/pedrohfolster?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Fullstack+Enthusiast;Java%2C+JavaScript%2C+React;Learning+and+Growing"></a>
+</p>
 </p>
 
 ---
