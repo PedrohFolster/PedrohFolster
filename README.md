@@ -23,7 +23,7 @@ I'm actively seeking opportunities as a developer, and I currently work on priva
 
 <h1 align="center">📚 About Me</h1>
 
-🎓 Education: Currently in the 4th semester of Software Analysis and Development at SENAC Florianópolis<br>
+🎓 Education: Currently in the last semester of Software Analysis and Development at SENAC Florianópolis<br>
 💼 Currently working as: Technical Support - Seventh<br>
 🌱 Learning: Mobile Development / Embedded Systems<br>
 💬 Ask me about: Java, Spring, and React<br>
