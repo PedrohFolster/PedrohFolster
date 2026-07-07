@@ -5,6 +5,12 @@
   <a href="https://github.com/pedrohfolster?tab=repositories">
     <img src="https://img.shields.io/github/stars/pedrohfolster?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
+
+  <div align="center">
+    <a href="https://github.com/PedrohFolster" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=PedrohFolster&style=flat-square&color=blue" alt="Profile_View_Counter"/>
+    </a>
+</div>
 </p>
 
 <p align="center">
