@@ -22,14 +22,15 @@
 ---
 
 <div align="center">
-  <a href="[Pedro_Henrique_Folster_dos_Santos_-_English_Version.pdf](https://github.com/user-attachments/files/29727598/Pedro_Henrique_Folster_dos_Santos_-_English_Version.pdf)
-">
+
+  <a href="https://github.com/user-attachments/files/29727598/Pedro_Henrique_Folster_dos_Santos_-_English_Version.pdf" download>
     <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(EN)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV EN Badge"/>
   </a>
-  <a href="[Pedro_Henrique_Folster_dos_Santos_-_Portuguese_Version.pdf](https://github.com/user-attachments/files/29727604/Pedro_Henrique_Folster_dos_Santos_-_Portuguese_Version.pdf)
-">
+
+  <a href="https://github.com/user-attachments/files/29727604/Pedro_Henrique_Folster_dos_Santos_-_Portuguese_Version.pdf" download>
     <img src="https://img.shields.io/badge/Curriculum%20Vitae%20(PT)-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PT Badge"/>
   </a>
+
 </div>
 
 ---
