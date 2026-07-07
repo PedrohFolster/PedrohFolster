@@ -8,7 +8,7 @@
 
   <div align="center">
     <a href="https://github.com/PedrohFolster" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=PedrohFolster&style=flat-square&color=blue" alt="Profile_View_Counter"/>
+        <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=pedrohfolster" alt="Profile Views"/>
     </a>
 </div>
 </p>
