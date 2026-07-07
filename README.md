@@ -92,9 +92,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://cybertechnology.sh/api/github-stats/stats?username=pedrohfolster"/>
+<img height="180em" src="https://cybertechnology.sh/api/github-stats/stats?username=pedrohfolster&v=2"/>
 
-<img height="180em" src="https://cybertechnology.sh/api/github-stats/top-langs?username=pedrohfolster"/>
+<img height="180em" src="https://cybertechnology.sh/api/github-stats/top-langs?username=pedrohfolster&v=2"/>
 </p>
 
 # 🌎 Connect with me
