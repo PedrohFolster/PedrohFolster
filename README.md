@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/github/stars/pedrohfolster?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
 
-  <div align="center">
-    <a href="https://github.com/PedrohFolster" target="_blank">
-        <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=pedrohfolster" alt="Profile Views"/>
+<div align="center">
+    <a href="https://github.com/pedrohfolster">
+      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=pedrohfolster" alt="Profile Views"/>
     </a>
-</div>
+  </div>
 </p>
 
 <p align="center">
