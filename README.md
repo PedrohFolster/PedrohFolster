@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://github.com/pedrohfolster">
-      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=pedrohfolster" alt="Profile Views"/>
+      <img src="https://cybertechnology.sh/api/github-stats/profile-views?username=pedrohfolster&v=2" alt="Profile Views"/>
     </a>
   </div>
 </p>
